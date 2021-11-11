@@ -1,22 +1,22 @@
 // File: server.js
 // Author: S. Rudqvist
-// Date: 2021/09/11
+// Date: 2021/11/11
 // server.js contains the code for the server component for the 
-// Fouchi Photography application. Responsabilities of the server are:
+// Framed by Fouchi application. Responsabilities of the server are:
 //
 //      1. Server the static web pages in the web component of the system
 //      2. Provide the FouchiPhotography API for both the web and mobile 
 //         version of the system.
 //
 // Modification Log:
-// 2021/09/11 - Created the file. (SR)
+// 2021/11/11 - Created the file. (SR)
 
 
 // Import the express server
 const express = require("express");
 
 // The port the application is hosted on
-const PORT = 5000;
+const PORT = 3000;
 
 // Create the http app
 const app = express();

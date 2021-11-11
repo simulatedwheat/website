@@ -1,0 +1,19 @@
+/*
+  File: index.css
+  Author: S. Rudqvist
+  Date: 2021/11/11
+  Copyright 2021 by Samuel Rudqvist
+
+  This file is the main style file for the landing page of 
+  Framed by Fouchi
+
+  
+  Modification Log:
+  2021/11/11: Created File. (SR)
+*/
+body {
+    background-color: blueviolet;
+}
+h5 {
+    color: brown;
+}
