@@ -14,6 +14,17 @@
 body {
     background-color: blueviolet;
 }
-h5 {
-    color: brown;
+
+
+#navBarBtn {
+  color: grey;
+  height: fit-content;
+}
+
+#navBarBtn:hover {
+  color: white;
+}
+
+#test {
+  background-color: red;
 }
